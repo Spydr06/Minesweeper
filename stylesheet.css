@@ -1,0 +1,11 @@
+html {
+    font-size: 200%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.field {
+    text-decoration: none;
+    text-align: center;
+    width: 1.5rem;
+    height: 1.5rem;
+}
