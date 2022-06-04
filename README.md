@@ -19,3 +19,5 @@ Running the webserver:
 ```console
 $ make run
 ```
+
+If compiled successful, you can now access the game by going to http://localhost:3001.
