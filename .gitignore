@@ -1,3 +1,6 @@
 /target
 Cargo.lock
 /pkg
+/package
+package.tar.gz
+package.zip
